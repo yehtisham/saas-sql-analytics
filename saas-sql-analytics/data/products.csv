@@ -1,0 +1,6 @@
+product_id,product_code,product_name,product_tier,monthly_price
+1,P1,Analytics Basic,Basic,300.0
+2,P2,Analytics Pro,Pro,900.0
+3,P3,Analytics Enterprise,Enterprise,2500.0
+4,P4,Data API,Pro,1200.0
+5,P5,Reporting Add-on,Basic,200.0

@@ -1,0 +1,301 @@
+account_id,account_code,account_name,industry,region,employee_count,arr_segment,created_at
+1,A0001,Company 0001,Manufacturing,APAC,4822,Mid-Market,2023-06-17
+2,A0002,Company 0002,Education,Europe,3731,Mid-Market,2022-11-17
+3,A0003,Company 0003,Finance,APAC,1085,Mid-Market,2022-06-12
+4,A0004,Company 0004,Manufacturing,Europe,4954,SMB,2022-01-07
+5,A0005,Company 0005,Finance,APAC,647,SMB,2023-04-24
+6,A0006,Company 0006,Healthcare,North America,4814,Mid-Market,2023-04-12
+7,A0007,Company 0007,Manufacturing,APAC,3038,SMB,2023-09-28
+8,A0008,Company 0008,Healthcare,APAC,3079,SMB,2023-12-09
+9,A0009,Company 0009,Education,North America,2926,SMB,2022-02-01
+10,A0010,Company 0010,Software,APAC,3287,Mid-Market,2023-01-16
+11,A0011,Company 0011,Finance,North America,879,Mid-Market,2022-12-19
+12,A0012,Company 0012,Manufacturing,North America,1298,Enterprise,2023-08-01
+13,A0013,Company 0013,Manufacturing,Europe,2437,Mid-Market,2023-01-18
+14,A0014,Company 0014,Finance,North America,1156,Mid-Market,2023-09-05
+15,A0015,Company 0015,Manufacturing,APAC,3937,Mid-Market,2022-06-03
+16,A0016,Company 0016,Healthcare,LATAM,2214,Enterprise,2022-09-17
+17,A0017,Company 0017,Healthcare,Europe,2431,Enterprise,2023-12-16
+18,A0018,Company 0018,Healthcare,Europe,372,SMB,2022-12-30
+19,A0019,Company 0019,Finance,Europe,2623,SMB,2023-01-17
+20,A0020,Company 0020,Finance,Europe,4839,SMB,2023-03-07
+21,A0021,Company 0021,Software,North America,2669,Mid-Market,2022-11-09
+22,A0022,Company 0022,Retail,APAC,927,SMB,2023-09-03
+23,A0023,Company 0023,Finance,North America,4989,SMB,2023-03-20
+24,A0024,Company 0024,Retail,North America,2404,Mid-Market,2022-04-19
+25,A0025,Company 0025,Retail,APAC,3251,SMB,2023-07-15
+26,A0026,Company 0026,Manufacturing,Europe,4548,Mid-Market,2022-12-30
+27,A0027,Company 0027,Manufacturing,APAC,645,SMB,2023-10-30
+28,A0028,Company 0028,Manufacturing,North America,2091,SMB,2023-03-25
+29,A0029,Company 0029,Finance,APAC,1540,Mid-Market,2023-08-22
+30,A0030,Company 0030,Finance,North America,1794,SMB,2023-03-26
+31,A0031,Company 0031,Finance,APAC,1134,SMB,2022-03-30
+32,A0032,Company 0032,Retail,LATAM,3946,Mid-Market,2023-11-17
+33,A0033,Company 0033,Healthcare,Europe,4531,Mid-Market,2023-01-15
+34,A0034,Company 0034,Software,APAC,4301,Mid-Market,2022-06-24
+35,A0035,Company 0035,Education,LATAM,4469,Mid-Market,2023-05-15
+36,A0036,Company 0036,Education,LATAM,3687,Mid-Market,2022-03-20
+37,A0037,Company 0037,Finance,North America,4942,Mid-Market,2022-11-12
+38,A0038,Company 0038,Healthcare,APAC,636,Mid-Market,2023-08-07
+39,A0039,Company 0039,Finance,Europe,1053,SMB,2023-04-04
+40,A0040,Company 0040,Education,North America,1272,SMB,2023-10-27
+41,A0041,Company 0041,Manufacturing,Europe,4206,SMB,2022-05-16
+42,A0042,Company 0042,Finance,APAC,1844,SMB,2022-04-28
+43,A0043,Company 0043,Software,APAC,3526,Mid-Market,2022-06-19
+44,A0044,Company 0044,Software,North America,404,Mid-Market,2022-07-26
+45,A0045,Company 0045,Education,LATAM,2846,Enterprise,2023-09-10
+46,A0046,Company 0046,Software,LATAM,2793,Mid-Market,2022-07-03
+47,A0047,Company 0047,Finance,North America,2785,SMB,2023-08-20
+48,A0048,Company 0048,Software,LATAM,3854,Mid-Market,2022-06-25
+49,A0049,Company 0049,Retail,North America,1676,Mid-Market,2022-03-23
+50,A0050,Company 0050,Finance,LATAM,845,Mid-Market,2022-07-28
+51,A0051,Company 0051,Software,Europe,472,Mid-Market,2022-05-09
+52,A0052,Company 0052,Software,APAC,4347,SMB,2022-02-09
+53,A0053,Company 0053,Healthcare,North America,2572,Mid-Market,2022-12-16
+54,A0054,Company 0054,Healthcare,LATAM,4775,SMB,2022-02-14
+55,A0055,Company 0055,Education,Europe,2416,Mid-Market,2023-08-17
+56,A0056,Company 0056,Manufacturing,Europe,4597,Mid-Market,2023-02-27
+57,A0057,Company 0057,Finance,APAC,1988,SMB,2022-03-18
+58,A0058,Company 0058,Healthcare,North America,1590,Mid-Market,2023-12-15
+59,A0059,Company 0059,Education,North America,2970,SMB,2023-07-20
+60,A0060,Company 0060,Software,Europe,616,SMB,2023-08-15
+61,A0061,Company 0061,Finance,North America,4342,SMB,2022-06-09
+62,A0062,Company 0062,Healthcare,APAC,2388,Mid-Market,2022-07-24
+63,A0063,Company 0063,Finance,North America,1240,Mid-Market,2023-05-04
+64,A0064,Company 0064,Software,North America,2809,Mid-Market,2023-12-11
+65,A0065,Company 0065,Healthcare,APAC,209,SMB,2022-11-26
+66,A0066,Company 0066,Retail,Europe,4817,SMB,2022-07-19
+67,A0067,Company 0067,Manufacturing,APAC,1081,SMB,2022-03-05
+68,A0068,Company 0068,Software,APAC,1250,SMB,2023-03-31
+69,A0069,Company 0069,Retail,North America,4431,SMB,2023-03-14
+70,A0070,Company 0070,Software,APAC,1307,SMB,2023-10-05
+71,A0071,Company 0071,Education,LATAM,4928,SMB,2022-08-02
+72,A0072,Company 0072,Education,Europe,2674,SMB,2022-09-18
+73,A0073,Company 0073,Manufacturing,Europe,962,SMB,2022-02-15
+74,A0074,Company 0074,Finance,Europe,1781,SMB,2022-07-05
+75,A0075,Company 0075,Software,APAC,856,SMB,2023-09-03
+76,A0076,Company 0076,Education,APAC,372,Mid-Market,2022-08-17
+77,A0077,Company 0077,Software,LATAM,1837,Mid-Market,2022-03-10
+78,A0078,Company 0078,Manufacturing,APAC,3898,Mid-Market,2022-07-02
+79,A0079,Company 0079,Software,APAC,4646,SMB,2023-08-18
+80,A0080,Company 0080,Retail,North America,1595,SMB,2022-06-21
+81,A0081,Company 0081,Finance,APAC,3669,Mid-Market,2022-06-06
+82,A0082,Company 0082,Software,North America,1729,Mid-Market,2023-05-16
+83,A0083,Company 0083,Finance,LATAM,2148,SMB,2023-04-07
+84,A0084,Company 0084,Healthcare,Europe,2792,Mid-Market,2023-01-26
+85,A0085,Company 0085,Retail,North America,1294,Enterprise,2023-02-19
+86,A0086,Company 0086,Education,North America,4843,SMB,2023-12-30
+87,A0087,Company 0087,Education,APAC,1775,SMB,2023-02-19
+88,A0088,Company 0088,Software,LATAM,1004,SMB,2023-07-03
+89,A0089,Company 0089,Education,North America,729,SMB,2023-09-18
+90,A0090,Company 0090,Education,Europe,1770,SMB,2023-09-15
+91,A0091,Company 0091,Software,North America,1307,Mid-Market,2023-01-16
+92,A0092,Company 0092,Software,North America,371,SMB,2023-05-15
+93,A0093,Company 0093,Healthcare,North America,4777,SMB,2023-05-18
+94,A0094,Company 0094,Finance,Europe,4606,SMB,2022-02-21
+95,A0095,Company 0095,Software,LATAM,4149,SMB,2022-02-25
+96,A0096,Company 0096,Finance,North America,1512,Mid-Market,2023-10-21
+97,A0097,Company 0097,Healthcare,North America,3210,Mid-Market,2022-12-30
+98,A0098,Company 0098,Software,North America,2339,Mid-Market,2023-09-05
+99,A0099,Company 0099,Retail,APAC,608,Mid-Market,2023-08-30
+100,A0100,Company 0100,Finance,Europe,3281,SMB,2023-07-14
+101,A0101,Company 0101,Finance,APAC,1088,Mid-Market,2023-11-03
+102,A0102,Company 0102,Retail,Europe,1733,SMB,2022-08-28
+103,A0103,Company 0103,Finance,Europe,4809,SMB,2022-02-01
+104,A0104,Company 0104,Finance,APAC,1092,SMB,2023-05-01
+105,A0105,Company 0105,Software,Europe,3354,SMB,2022-04-19
+106,A0106,Company 0106,Retail,North America,4361,SMB,2023-06-27
+107,A0107,Company 0107,Healthcare,APAC,3523,SMB,2022-01-26
+108,A0108,Company 0108,Healthcare,North America,2534,Mid-Market,2023-04-29
+109,A0109,Company 0109,Manufacturing,LATAM,3560,SMB,2023-07-30
+110,A0110,Company 0110,Software,Europe,4157,Mid-Market,2023-08-07
+111,A0111,Company 0111,Finance,Europe,2768,SMB,2023-09-11
+112,A0112,Company 0112,Healthcare,North America,2717,SMB,2022-03-27
+113,A0113,Company 0113,Manufacturing,APAC,2769,Enterprise,2023-09-17
+114,A0114,Company 0114,Software,North America,4426,Mid-Market,2022-03-02
+115,A0115,Company 0115,Software,North America,3494,SMB,2023-03-31
+116,A0116,Company 0116,Software,North America,216,SMB,2022-02-09
+117,A0117,Company 0117,Education,APAC,1897,SMB,2023-03-06
+118,A0118,Company 0118,Software,APAC,1047,Mid-Market,2023-04-17
+119,A0119,Company 0119,Education,North America,1212,Mid-Market,2022-03-04
+120,A0120,Company 0120,Healthcare,APAC,2617,SMB,2023-07-31
+121,A0121,Company 0121,Software,LATAM,2689,SMB,2022-06-14
+122,A0122,Company 0122,Finance,North America,3469,Mid-Market,2023-02-26
+123,A0123,Company 0123,Education,APAC,4254,Mid-Market,2022-02-14
+124,A0124,Company 0124,Retail,LATAM,4119,Mid-Market,2022-01-23
+125,A0125,Company 0125,Software,APAC,310,Mid-Market,2023-03-05
+126,A0126,Company 0126,Healthcare,LATAM,2220,SMB,2023-07-23
+127,A0127,Company 0127,Retail,APAC,1517,SMB,2023-07-16
+128,A0128,Company 0128,Finance,APAC,2873,Mid-Market,2023-01-21
+129,A0129,Company 0129,Finance,Europe,868,Mid-Market,2022-10-23
+130,A0130,Company 0130,Retail,APAC,1148,SMB,2023-02-03
+131,A0131,Company 0131,Education,LATAM,3121,SMB,2023-12-08
+132,A0132,Company 0132,Manufacturing,Europe,362,Mid-Market,2022-11-24
+133,A0133,Company 0133,Manufacturing,LATAM,76,SMB,2023-11-10
+134,A0134,Company 0134,Manufacturing,Europe,2972,SMB,2022-11-09
+135,A0135,Company 0135,Manufacturing,Europe,3018,SMB,2022-07-21
+136,A0136,Company 0136,Manufacturing,APAC,1091,SMB,2022-06-21
+137,A0137,Company 0137,Manufacturing,North America,351,Enterprise,2022-04-21
+138,A0138,Company 0138,Retail,Europe,1678,Mid-Market,2023-01-20
+139,A0139,Company 0139,Education,Europe,3679,SMB,2022-10-27
+140,A0140,Company 0140,Education,LATAM,1022,Enterprise,2023-03-12
+141,A0141,Company 0141,Manufacturing,Europe,2233,Mid-Market,2022-03-27
+142,A0142,Company 0142,Finance,APAC,1215,SMB,2023-02-26
+143,A0143,Company 0143,Software,LATAM,1190,SMB,2022-08-30
+144,A0144,Company 0144,Manufacturing,APAC,4719,SMB,2022-06-25
+145,A0145,Company 0145,Retail,Europe,1804,Mid-Market,2023-07-13
+146,A0146,Company 0146,Manufacturing,APAC,4767,Enterprise,2023-12-11
+147,A0147,Company 0147,Healthcare,LATAM,3176,SMB,2023-10-02
+148,A0148,Company 0148,Finance,North America,2516,SMB,2023-05-30
+149,A0149,Company 0149,Software,APAC,2715,SMB,2023-04-22
+150,A0150,Company 0150,Finance,APAC,3588,Mid-Market,2022-07-16
+151,A0151,Company 0151,Software,APAC,2187,Mid-Market,2023-06-24
+152,A0152,Company 0152,Healthcare,North America,734,Mid-Market,2023-11-14
+153,A0153,Company 0153,Education,LATAM,2968,Mid-Market,2022-08-07
+154,A0154,Company 0154,Finance,North America,2877,Mid-Market,2022-07-19
+155,A0155,Company 0155,Manufacturing,APAC,3543,Mid-Market,2022-12-03
+156,A0156,Company 0156,Manufacturing,North America,576,Mid-Market,2023-10-27
+157,A0157,Company 0157,Manufacturing,LATAM,2701,Mid-Market,2023-04-10
+158,A0158,Company 0158,Manufacturing,Europe,3047,SMB,2023-03-24
+159,A0159,Company 0159,Education,North America,3453,Enterprise,2022-05-29
+160,A0160,Company 0160,Finance,North America,1314,SMB,2022-06-13
+161,A0161,Company 0161,Finance,Europe,621,Enterprise,2022-01-06
+162,A0162,Company 0162,Retail,Europe,3991,Enterprise,2022-10-05
+163,A0163,Company 0163,Healthcare,LATAM,2297,Mid-Market,2022-05-06
+164,A0164,Company 0164,Healthcare,Europe,2630,SMB,2023-06-11
+165,A0165,Company 0165,Retail,North America,81,Mid-Market,2023-06-13
+166,A0166,Company 0166,Education,LATAM,3375,SMB,2023-01-11
+167,A0167,Company 0167,Finance,APAC,2961,Enterprise,2023-07-18
+168,A0168,Company 0168,Retail,Europe,2303,Mid-Market,2023-07-03
+169,A0169,Company 0169,Retail,LATAM,4257,Mid-Market,2023-09-23
+170,A0170,Company 0170,Software,APAC,2297,SMB,2023-08-10
+171,A0171,Company 0171,Finance,APAC,2418,SMB,2023-08-23
+172,A0172,Company 0172,Software,LATAM,361,Mid-Market,2022-07-27
+173,A0173,Company 0173,Finance,Europe,2594,Mid-Market,2023-07-14
+174,A0174,Company 0174,Retail,APAC,1390,Mid-Market,2022-02-06
+175,A0175,Company 0175,Retail,North America,2837,SMB,2023-07-14
+176,A0176,Company 0176,Healthcare,North America,2769,SMB,2023-10-08
+177,A0177,Company 0177,Education,APAC,1820,Enterprise,2022-09-23
+178,A0178,Company 0178,Retail,APAC,1811,SMB,2022-08-24
+179,A0179,Company 0179,Healthcare,Europe,1675,SMB,2022-05-26
+180,A0180,Company 0180,Software,North America,4448,SMB,2023-07-17
+181,A0181,Company 0181,Software,APAC,4165,SMB,2023-07-14
+182,A0182,Company 0182,Finance,North America,2882,Mid-Market,2022-08-01
+183,A0183,Company 0183,Software,APAC,3800,Mid-Market,2023-10-08
+184,A0184,Company 0184,Healthcare,APAC,1344,Mid-Market,2023-10-03
+185,A0185,Company 0185,Finance,North America,3544,SMB,2023-08-24
+186,A0186,Company 0186,Education,APAC,3814,Mid-Market,2022-06-27
+187,A0187,Company 0187,Healthcare,APAC,4405,SMB,2022-08-03
+188,A0188,Company 0188,Finance,North America,779,Mid-Market,2023-08-13
+189,A0189,Company 0189,Software,LATAM,3081,Mid-Market,2023-03-12
+190,A0190,Company 0190,Manufacturing,North America,2138,Enterprise,2022-10-21
+191,A0191,Company 0191,Healthcare,Europe,4605,SMB,2022-04-02
+192,A0192,Company 0192,Healthcare,LATAM,1368,SMB,2022-08-14
+193,A0193,Company 0193,Retail,LATAM,2875,Mid-Market,2022-12-11
+194,A0194,Company 0194,Education,Europe,1664,SMB,2023-02-02
+195,A0195,Company 0195,Retail,North America,2685,SMB,2022-12-23
+196,A0196,Company 0196,Education,Europe,526,Mid-Market,2022-01-27
+197,A0197,Company 0197,Manufacturing,APAC,1963,Mid-Market,2022-10-16
+198,A0198,Company 0198,Healthcare,Europe,3679,SMB,2022-08-17
+199,A0199,Company 0199,Manufacturing,APAC,2841,Mid-Market,2023-05-20
+200,A0200,Company 0200,Software,Europe,799,SMB,2022-03-17
+201,A0201,Company 0201,Retail,LATAM,3403,Mid-Market,2022-03-16
+202,A0202,Company 0202,Software,LATAM,3632,Mid-Market,2023-10-09
+203,A0203,Company 0203,Software,North America,3529,SMB,2022-07-10
+204,A0204,Company 0204,Manufacturing,LATAM,1947,Mid-Market,2023-03-22
+205,A0205,Company 0205,Manufacturing,North America,2250,Mid-Market,2022-08-23
+206,A0206,Company 0206,Retail,LATAM,3171,Mid-Market,2022-05-18
+207,A0207,Company 0207,Manufacturing,LATAM,127,SMB,2023-10-24
+208,A0208,Company 0208,Healthcare,Europe,1013,Mid-Market,2022-09-18
+209,A0209,Company 0209,Retail,North America,3961,Mid-Market,2023-02-05
+210,A0210,Company 0210,Healthcare,Europe,1353,SMB,2023-12-09
+211,A0211,Company 0211,Education,North America,797,Mid-Market,2022-08-21
+212,A0212,Company 0212,Education,LATAM,4051,SMB,2022-04-23
+213,A0213,Company 0213,Software,LATAM,1175,SMB,2022-11-24
+214,A0214,Company 0214,Retail,North America,2842,Mid-Market,2023-05-01
+215,A0215,Company 0215,Software,APAC,4744,Mid-Market,2023-03-02
+216,A0216,Company 0216,Manufacturing,North America,2462,Mid-Market,2023-07-08
+217,A0217,Company 0217,Manufacturing,APAC,1925,Enterprise,2022-04-05
+218,A0218,Company 0218,Finance,Europe,773,Mid-Market,2022-05-01
+219,A0219,Company 0219,Education,LATAM,2260,SMB,2022-02-09
+220,A0220,Company 0220,Software,APAC,78,SMB,2022-04-14
+221,A0221,Company 0221,Software,LATAM,1012,Mid-Market,2023-02-25
+222,A0222,Company 0222,Finance,North America,2103,Mid-Market,2023-12-16
+223,A0223,Company 0223,Education,APAC,49,SMB,2023-09-13
+224,A0224,Company 0224,Retail,Europe,542,SMB,2022-03-11
+225,A0225,Company 0225,Finance,APAC,1203,SMB,2022-06-25
+226,A0226,Company 0226,Healthcare,APAC,4099,Mid-Market,2022-09-10
+227,A0227,Company 0227,Software,Europe,3267,SMB,2023-04-03
+228,A0228,Company 0228,Healthcare,APAC,1092,Mid-Market,2022-05-10
+229,A0229,Company 0229,Healthcare,North America,3074,Mid-Market,2022-01-02
+230,A0230,Company 0230,Retail,LATAM,758,Mid-Market,2022-12-25
+231,A0231,Company 0231,Healthcare,North America,613,Mid-Market,2023-06-10
+232,A0232,Company 0232,Software,North America,1997,Mid-Market,2023-01-15
+233,A0233,Company 0233,Finance,APAC,2271,SMB,2023-10-11
+234,A0234,Company 0234,Software,North America,1490,SMB,2022-05-07
+235,A0235,Company 0235,Manufacturing,LATAM,3107,Mid-Market,2023-07-20
+236,A0236,Company 0236,Software,Europe,4940,SMB,2023-12-03
+237,A0237,Company 0237,Healthcare,LATAM,3844,Mid-Market,2022-12-24
+238,A0238,Company 0238,Healthcare,APAC,2302,Mid-Market,2022-07-01
+239,A0239,Company 0239,Retail,Europe,4743,Mid-Market,2022-12-12
+240,A0240,Company 0240,Education,Europe,4271,SMB,2022-08-15
+241,A0241,Company 0241,Retail,Europe,4988,Mid-Market,2023-08-10
+242,A0242,Company 0242,Education,North America,3070,Mid-Market,2023-04-08
+243,A0243,Company 0243,Finance,APAC,2983,SMB,2022-12-08
+244,A0244,Company 0244,Healthcare,LATAM,4716,Mid-Market,2022-05-22
+245,A0245,Company 0245,Retail,APAC,2403,Enterprise,2022-12-27
+246,A0246,Company 0246,Software,LATAM,694,Mid-Market,2023-06-08
+247,A0247,Company 0247,Manufacturing,Europe,2064,SMB,2023-03-06
+248,A0248,Company 0248,Manufacturing,LATAM,4175,SMB,2023-06-28
+249,A0249,Company 0249,Healthcare,North America,1713,Mid-Market,2022-09-16
+250,A0250,Company 0250,Manufacturing,Europe,3378,SMB,2023-10-09
+251,A0251,Company 0251,Software,LATAM,1966,SMB,2022-01-13
+252,A0252,Company 0252,Software,North America,1626,SMB,2023-02-27
+253,A0253,Company 0253,Healthcare,LATAM,623,Mid-Market,2022-09-24
+254,A0254,Company 0254,Education,North America,678,SMB,2022-02-27
+255,A0255,Company 0255,Retail,LATAM,3727,Mid-Market,2022-03-14
+256,A0256,Company 0256,Retail,APAC,1943,SMB,2022-08-22
+257,A0257,Company 0257,Education,North America,2408,SMB,2023-02-04
+258,A0258,Company 0258,Manufacturing,Europe,433,SMB,2023-08-05
+259,A0259,Company 0259,Manufacturing,Europe,3445,Mid-Market,2022-09-08
+260,A0260,Company 0260,Education,North America,4584,SMB,2023-01-24
+261,A0261,Company 0261,Finance,North America,2027,SMB,2023-04-17
+262,A0262,Company 0262,Manufacturing,Europe,838,SMB,2022-04-29
+263,A0263,Company 0263,Education,APAC,4494,Mid-Market,2022-03-09
+264,A0264,Company 0264,Education,Europe,2623,SMB,2022-12-18
+265,A0265,Company 0265,Finance,North America,3231,SMB,2022-01-03
+266,A0266,Company 0266,Software,APAC,1064,Mid-Market,2023-06-05
+267,A0267,Company 0267,Software,LATAM,2308,Mid-Market,2022-03-20
+268,A0268,Company 0268,Education,North America,2114,SMB,2023-04-29
+269,A0269,Company 0269,Software,North America,1699,SMB,2022-11-10
+270,A0270,Company 0270,Healthcare,APAC,778,Enterprise,2023-05-03
+271,A0271,Company 0271,Retail,LATAM,109,SMB,2022-11-12
+272,A0272,Company 0272,Retail,Europe,1934,Enterprise,2022-01-27
+273,A0273,Company 0273,Education,LATAM,4319,Mid-Market,2022-11-29
+274,A0274,Company 0274,Finance,North America,4213,SMB,2023-03-18
+275,A0275,Company 0275,Finance,APAC,2775,SMB,2022-09-08
+276,A0276,Company 0276,Healthcare,North America,732,Mid-Market,2023-08-14
+277,A0277,Company 0277,Software,APAC,575,Enterprise,2023-03-25
+278,A0278,Company 0278,Retail,APAC,591,Mid-Market,2022-03-29
+279,A0279,Company 0279,Software,APAC,578,SMB,2023-11-21
+280,A0280,Company 0280,Manufacturing,APAC,4561,Mid-Market,2022-11-01
+281,A0281,Company 0281,Retail,North America,4596,SMB,2023-01-27
+282,A0282,Company 0282,Software,APAC,2521,SMB,2023-08-25
+283,A0283,Company 0283,Software,Europe,3605,Enterprise,2022-09-11
+284,A0284,Company 0284,Retail,North America,1657,Enterprise,2022-02-24
+285,A0285,Company 0285,Manufacturing,APAC,3440,SMB,2022-06-07
+286,A0286,Company 0286,Education,APAC,1893,SMB,2023-06-25
+287,A0287,Company 0287,Retail,APAC,4065,SMB,2022-09-03
+288,A0288,Company 0288,Healthcare,APAC,904,SMB,2023-10-14
+289,A0289,Company 0289,Software,LATAM,4488,SMB,2023-09-01
+290,A0290,Company 0290,Software,Europe,1951,SMB,2023-09-23
+291,A0291,Company 0291,Retail,Europe,1748,Enterprise,2022-08-26
+292,A0292,Company 0292,Education,North America,4363,SMB,2023-08-25
+293,A0293,Company 0293,Manufacturing,North America,4206,SMB,2022-06-02
+294,A0294,Company 0294,Software,Europe,80,Mid-Market,2022-11-08
+295,A0295,Company 0295,Software,LATAM,4301,Mid-Market,2022-06-15
+296,A0296,Company 0296,Software,Europe,2344,Mid-Market,2023-09-27
+297,A0297,Company 0297,Manufacturing,LATAM,1323,SMB,2022-07-26
+298,A0298,Company 0298,Education,LATAM,4367,Mid-Market,2023-09-04
+299,A0299,Company 0299,Healthcare,APAC,3194,Mid-Market,2023-02-17
+300,A0300,Company 0300,Software,LATAM,3265,Enterprise,2023-06-03
