@@ -33,13 +33,3 @@ All queries live in [`analytics.sql`](analytics.sql). They answer questions such
 
 5. **Account health score**  
    A view (`account_health_score`) that combines segment, recent activities, and product usage into a numeric score to help Sales prioritize accounts.
-
-## How to Run (SQLite + DB Browser)
-
-1. Create a new SQLite database (e.g., `gtm_analytics_warehouse.sqlite`) with DB Browser for SQLite.
-2. In the **Execute SQL** tab, paste and run everything from [`schema.sql`](schema.sql) to create tables and load data.
-3. Paste and run queries from [`analytics.sql`](analytics.sql) to reproduce the analysis results.
-4. Connect the database to a BI tool (Power BI, Tableau, etc.) and visualize:
-   - Win rate by segment/source,
-   - Campaign ROI,
-   - Ranked account health scores.
