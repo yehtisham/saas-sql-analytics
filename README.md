@@ -68,18 +68,21 @@ Accounts are then bucketed into four tiers based on their score:
 
 ---
 
-## Power BI Dashboard
+## Interactive Dashboard
 
-The dashboard is a single-page executive view with the following components:
+The dashboard is a single-page HTML report built with Chart.js — open it directly in any browser, no software installation required.
+
+**[View Dashboard](dashboard/saas_dashboard.html)**
+
+Components:
 
 - **Monthly Revenue by Segment** — stacked line chart across Enterprise, Mid-Market, and SMB
-- **Month-over-Month Growth** — bar/line combo chart using window function output
+- **Month-over-Month Growth** — bar/line combo chart using window function output, green/red bars for growth vs decline
 - **Customer Health Distribution** — donut chart across all 238 accounts by tier
 - **Revenue by Region** — horizontal bar breakdown across North America, APAC, LATAM, and Europe
 - **At-Risk Accounts Table** — 22 accounts flagged for overdue or written-off invoices, sorted by health score
 - **Upsell Opportunities Table** — accounts with above-median usage and below-median revenue, prioritized for Sales outreach
-
-![Dashboard Screenshot](dashboard/screenshot.png)
+- **Filters** — interactive segment and region dropdowns that update both tables live
 
 ---
 
@@ -124,8 +127,7 @@ saas-analytics-warehouse/
 │   └── vw_upsell_candidates.sql
 │
 ├── dashboard/
-│   ├── saas_analytics.pbix
-│   └── screenshot.png
+│   └── saas_dashboard.html
 │
 ├── saas_analytics.sqlite
 └── README.md
@@ -136,9 +138,9 @@ saas-analytics-warehouse/
 ## How to Run
 
 1. Clone the repository
-2. Open `saas_analytics.sqlite` in any SQLite client (e.g. DB Browser for SQLite) to explore the views
-3. To connect to Power BI: **Get Data → ODBC → point to the `.sqlite` file** — all views will appear as available tables
-4. Open `dashboard/saas_analytics.pbix` in Power BI Desktop to explore the full report
+2. Open `saas_analytics.sqlite` in any SQLite client (e.g. DB Browser for SQLite) to explore the schema and views
+3. Open `dashboard/saas_dashboard.html` in any browser to view the interactive dashboard — no installation required
+4. All data is pre-embedded in the dashboard; CSV exports are in `/data` for reference
 
 ---
 
