@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project mirrors the analytics infrastructure a Customer Success or Revenue Operations team would use to monitor subscription health and prioritize outreach. The data layer is built entirely in SQLite with six structured SQL views. The presentation layer is a Power BI dashboard that consumes those views directly to surface actionable insights across 238 simulated accounts.
+This project mirrors the analytics infrastructure a Customer Success or Revenue Operations team would use to monitor subscription health and prioritize outreach. The data layer is built entirely in SQLite with six structured SQL views. The presentation layer is an interactive HTML dashboard built with Chart.js, surfacing actionable insights across 238 simulated accounts.
 
 ---
 
@@ -103,7 +103,7 @@ Components:
 | Data warehouse | SQLite |
 | Data modeling & transformation | SQL (window functions, CTEs, aggregations) |
 | Data preparation & export | Python (pandas) |
-| Visualization | Power BI |
+| Visualization | Chart.js (HTML dashboard) |
 
 ---
 
