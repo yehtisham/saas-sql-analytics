@@ -127,7 +127,7 @@ saas-analytics-warehouse/
 │   └── vw_upsell_candidates.sql
 │
 ├── dashboard/
-│   └── saas_dashboard.html
+│   
 │
 ├── saas_analytics.sqlite
 └── README.md
@@ -139,8 +139,7 @@ saas-analytics-warehouse/
 
 1. Clone the repository
 2. Open `saas_analytics.sqlite` in any SQLite client (e.g. DB Browser for SQLite) to explore the schema and views
-3. Open `dashboard/saas_dashboard.html` in any browser to view the interactive dashboard — no installation required
-4. All data is pre-embedded in the dashboard; CSV exports are in `/data` for reference
+3. All data is pre-embedded in the dashboard; CSV exports are in `/data` for reference
 
 ---
 
